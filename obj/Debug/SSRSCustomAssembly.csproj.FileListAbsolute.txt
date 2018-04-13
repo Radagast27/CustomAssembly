@@ -1,0 +1,6 @@
+C:\source\SSRSCustomAssembly\SSRSCustomAssembly\bin\Debug\SSRSCustomAssembly.dll
+C:\source\SSRSCustomAssembly\SSRSCustomAssembly\bin\Debug\SSRSCustomAssembly.pdb
+C:\source\SSRSCustomAssembly\SSRSCustomAssembly\obj\Debug\SSRSCustomAssembly.csprojResolveAssemblyReference.cache
+C:\source\SSRSCustomAssembly\SSRSCustomAssembly\obj\Debug\SSRSCustomAssembly.csproj.CoreCompileInputs.cache
+C:\source\SSRSCustomAssembly\SSRSCustomAssembly\obj\Debug\SSRSCustomAssembly.dll
+C:\source\SSRSCustomAssembly\SSRSCustomAssembly\obj\Debug\SSRSCustomAssembly.pdb
